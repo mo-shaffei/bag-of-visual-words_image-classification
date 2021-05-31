@@ -1,5 +1,5 @@
-# bag-of-words_image-classification
-A python implementation of multi-class image classification using bag of words technique and SVM classifier.
+# bag-of-visual-words_image-classification
+A python implementation of multi-class image classification using bag of visual words technique and SVM classifier.
 
 Description:
 Training images are used to build a bag of words by extracting features from each image using Histogram of Oriented Gradients(hog) algorithm.
