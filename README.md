@@ -12,3 +12,9 @@ SVM classifier is trained using the dataset that we created, and then tested usi
 process described for the training data.
 
 A confusion matrix is produced using the test results and the accuracy, mean of confusion matrix diagonal, is calculated.
+
+Instructions:
+Use [link](https://drive.google.com/file/d/1hbKp679nDRoc3vR5sGTBns70Le7d6c_8/view?usp=sharing) to download the dataset. Unzip the file in the
+same directory as the scripts.
+
+Run main.py.
